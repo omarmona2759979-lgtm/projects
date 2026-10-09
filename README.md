@@ -1,1 +1,1 @@
-# project1-rock-paper-scissor
+# projects
